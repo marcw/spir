@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class CoherenceCardiaque extends Component {
+export default class Spir extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('CoherenceCardiaque', () => CoherenceCardiaque);
+AppRegistry.registerComponent('Spir', () => Spir);

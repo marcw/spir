@@ -101,7 +101,7 @@ class Breath extends React.Component {
     }
 }
 
-export default class CoherenceCardiaque extends Component {
+export default class Spir extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -182,4 +182,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('CoherenceCardiaque', () => CoherenceCardiaque);
+AppRegistry.registerComponent('Spir', () => Spir);
