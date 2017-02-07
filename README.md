@@ -8,7 +8,7 @@ Breath-in while the circle expands (for 5 seconds), Breath-out while the circle 
 
 ## The app
 
-The app is written with React Native. It has only been tested on iOS so far.
+The app is written with React Native. It has only been tested on iOS so far. An Android version is planned.
 
 ## License
 
