@@ -516,7 +516,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "CoherenceCardiaque" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Spir" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -897,7 +897,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.Spir;
+				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.ios.spir;
 				PRODUCT_NAME = Spir;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -915,7 +915,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.Spir;
+				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.ios.spir;
 				PRODUCT_NAME = Spir;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1020,7 +1020,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "CoherenceCardiaque" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Spir" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
