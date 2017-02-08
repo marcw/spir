@@ -890,14 +890,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = G4B6MS78DY;
 				INFOPLIST_FILE = Spir/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.ios.spir;
+				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.app.spir;
 				PRODUCT_NAME = Spir;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -908,14 +910,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = G4B6MS78DY;
 				INFOPLIST_FILE = Spir/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.ios.spir;
+				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.app.spir;
 				PRODUCT_NAME = Spir;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
