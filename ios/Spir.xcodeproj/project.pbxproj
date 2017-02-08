@@ -899,7 +899,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.app.spir;
+				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.ios.spir;
 				PRODUCT_NAME = Spir;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -919,7 +919,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.app.spir;
+				PRODUCT_BUNDLE_IDENTIFIER = net.delatech.ios.spir;
 				PRODUCT_NAME = Spir;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
