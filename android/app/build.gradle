@@ -126,6 +126,7 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-idle-timer')
     compile project(':react-native-localization')
     compile project(':react-native-material-kit')
     compile fileTree(dir: "libs", include: ["*.jar"])
