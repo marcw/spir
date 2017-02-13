@@ -29,7 +29,7 @@ const i18n = new LocalizedStrings({
 });
 
 class Breath extends React.Component {
-    startValue = 10;
+    startValue = 50;
     endValue = 300;
     breathDuration = 5000;
     maxDuration = 1000 * 60 * 5; // 1000ms * 60 * 5 = 5 minutes
