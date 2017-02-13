@@ -15,6 +15,7 @@ import {
     Easing
 } from 'react-native';
 import LocalizedStrings from 'react-native-localization';
+import IdleTimerManager from 'react-native-idle-timer';
 
 const i18n = new LocalizedStrings({
     "en":{
@@ -41,6 +42,14 @@ class Breath extends React.Component {
         };
 
         this.breathValue = new Animated.Value(this.startValue);
+    }
+
+    componentWillMount() {
+          IdleTimerManager.setIdleTimerDisabled(true);
+    }
+
+    componentWillUnmount() {
+          IdleTimerManager.setIdleTimerDisabled(false);
     }
 
     componentDidMount() {
